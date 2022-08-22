@@ -1,5 +1,11 @@
 # Semester 2: Social Media Mockup: SafeSpace
 
+## Dependencies:
+
+[react-router-dom](https://reactrouter.com/docs/en/v6/getting-started/installation) <br/>
+
+To install, navigate to the project folder in terminal and enter the command:
+> npm install
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
